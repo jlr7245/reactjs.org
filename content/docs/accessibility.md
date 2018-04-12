@@ -357,3 +357,12 @@ Refer to the following guides on how to best use JAWS:
 
 - [WebAIM - Using JAWS to Evaluate Web Accessibility](http://webaim.org/articles/jaws/)
 - [Deque - JAWS Keyboard Shortcuts](https://dequeuniversity.com/screenreaders/jaws-keyboard-shortcuts)
+
+#### ChromeVox in Google Chrome
+
+[ChromeVox](http://www.chromevox.com/) is an integrated screen reader on Chromebooks and is available [as an extension](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) for Google Chrome.
+
+Refer to the following guides on how best to use ChromeVox:
+
+- [Google Chromebook Help - Use the Built-in Screen Reader](https://support.google.com/chromebook/answer/7031755?hl=en)
+- [ChromeVox Classic Keyboard Shortcuts Reference](http://www.chromevox.com/keyboard_shortcuts.html)
